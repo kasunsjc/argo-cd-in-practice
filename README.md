@@ -1,1 +1,1 @@
-# kasunsjc-argo-cd-in-practice
+# argo-cd-in-practice
