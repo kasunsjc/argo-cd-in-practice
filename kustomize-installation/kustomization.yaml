@@ -10,6 +10,3 @@ patches:
 - path: patches/argocd-cm.yaml
 - path: patches/argocd-server-deployment.yaml
 - path: patches/argocd-repo-server-deployment.yaml
-- path: patches/servicemonitor-argocd-metrics.yaml
-- path: patches/servicemonitor-argocd-repo-server-metrics.yaml
-- path: patches/servicemonitor-argocd-server-metrics.yaml
